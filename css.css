@@ -1,0 +1,29 @@
+
+
+.head {
+    border-radius: 5px;
+    border-color:#362d2d ;
+    /* padding: 0.01%; */
+    background: #444;
+}
+
+.head h1 {
+    text-align: center;
+}
+
+.base {
+    width: auto;
+    height: 50%;
+    background: rgb(151, 150, 150);
+}
+
+.bloc-base {
+    background: #362d2d;
+    width: 200px;
+    height: 150px;
+    position: relative;
+    top: auto;
+    
+    margin: auto;
+   
+}
